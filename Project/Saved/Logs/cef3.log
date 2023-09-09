@@ -1,57 +1,7 @@
-[0908/162644.394:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
-[0908/162653.234:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0908/162653.235:ERROR:entry_impl.cc(1075)] No file for c10300d6
-[0908/162653.235:WARNING:storage_block-inl.h(146)] Failed data load.
-[0908/162653.235:WARNING:storage_block-inl.h(146)] Failed data load.
-[0908/162653.235:WARNING:storage_block-inl.h(146)] Failed data load.
-[0908/162653.235:WARNING:storage_block-inl.h(146)] Failed data load.
-[0908/162653.235:ERROR:entry_impl.cc(1075)] No file for c10300d2
-[0908/162653.235:WARNING:storage_block-inl.h(146)] Failed data load.
-[0908/162653.235:WARNING:storage_block-inl.h(146)] Failed data load.
-[0908/162653.235:WARNING:storage_block-inl.h(146)] Failed data load.
-[0908/162653.235:WARNING:storage_block-inl.h(146)] Failed data load.
-[0908/162653.235:ERROR:entry_impl.cc(1075)] No file for c10300d4
-[0908/162653.235:WARNING:storage_block-inl.h(146)] Failed data load.
-[0908/162653.235:WARNING:storage_block-inl.h(146)] Failed data load.
-[0908/162653.264:WARNING:storage_block-inl.h(146)] Failed data load.
-[0908/162657.643:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0908/162705.226:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 43
-[0908/162705.226:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 45
-[0908/162705.226:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 47
-[0908/162705.226:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 49
-[0908/162705.226:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 51
-[0908/162705.226:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 53
-[0908/162705.226:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 55
-[0908/162705.226:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 57
-[0908/162705.226:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 59
-[0908/162705.226:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 61
-[0908/162705.226:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 63
-[0908/162705.226:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 65
-[0908/162705.226:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 67
-[0908/162705.226:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 69
-[0908/162705.226:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 71
-[0908/162705.226:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 73
-[0908/162705.226:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 75
-[0908/162705.226:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 77
-[0908/162705.226:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 79
-[0908/162705.227:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 81
-[0908/162705.227:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 83
-[0908/162705.227:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 85
-[0908/162705.227:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 87
-[0908/162705.227:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 89
-[0908/162705.227:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 91
-[0908/162705.227:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 93
-[0908/162705.227:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 95
-[0908/162705.227:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 97
-[0908/162705.227:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 99
-[0908/162705.227:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 41
-[0908/162705.227:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 101
-[0908/162705.227:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 103
-[0908/162705.227:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 105
-[0908/162705.227:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 107
-[0908/162705.227:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 109
-[0908/162705.227:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 111
-[0908/162705.227:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 113
-[0908/162845.583:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0908/162958.849:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from D:/Github/Pasarelala/Project/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: D:/Github/Pasarelala/Project/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0908/162958.857:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from D:/Github/Pasarelala/Project/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: D:/Github/Pasarelala/Project/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0909/005008.011:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0909/005023.496:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 11
+[0909/005024.041:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from D:/Github/Pasarelala/Project/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: D:/Github/Pasarelala/Project/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0909/005024.044:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from D:/Github/Pasarelala/Project/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: D:/Github/Pasarelala/Project/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0909/005156.770:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0909/011249.651:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from D:/Github/Pasarelala/Project/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: D:/Github/Pasarelala/Project/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0909/011249.654:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from D:/Github/Pasarelala/Project/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: D:/Github/Pasarelala/Project/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
