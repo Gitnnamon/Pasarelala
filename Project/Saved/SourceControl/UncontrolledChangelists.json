@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/BasicShapes/Sphere.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/Pasarelala/Project/Content/Pruebas1.umap",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Runtime/HDRIBackdrop/Content/Textures/dikhololo_night_8k.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Runtime/HDRIBackdrop/Content/Textures/dikhololo_night_4k.uasset",
 				"D:/Github/Pasarelala/Project/Content/Pruebas1.umap",
 				"D:/Github/Pasarelala/Project/Content/Blueprints/BP_LTrigger.uasset",
 				"D:/Github/Pasarelala/Project/Content/Mat/aa.uasset",
@@ -850,7 +854,6 @@
 				"C:/Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Content/LvlStuff/Estatuas/MascaraLuna.uasset",
 				"C:/Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Content/LvlStuff/Estatuas/MascaraMujer.uasset",
 				"C:/Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Content/LvlStuff/Estatuas/MascaraSol.uasset",
-				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/BasicShapes/Sphere.uasset",
 				"C:/Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Content/Megascans/Surfaces/Concrete_Pavement_wjwjcis/M_Calle.uasset",
 				"C:/Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Content/_GENERATED/CINNAMON/Box_D9882D56.uasset",
 				"C:/Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Content/_GENERATED/CINNAMON/Path_3FA805BC.uasset",
