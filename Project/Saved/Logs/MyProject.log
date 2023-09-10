@@ -3338,3 +3338,108 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.10-07.54.50:550][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 941 ms (total: 3.27 sec)
 [2023.09.10-07.54.50:555][151]AssetCheck: New page: Asset Save: Pruebas1
 [2023.09.10-07.54.50:555][151]LogContentValidation: Display: Validating /Script/Engine.World /Game/Pruebas1.Pruebas1
+[2023.09.10-07.57.39:117][506]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.10-07.57.39:126][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.10-07.57.39:126][506]PIE: New page: PIE session: Pruebas1 (10-09-2023 01:57:39)
+[2023.09.10-07.57.39:127][506]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pruebas1
+[2023.09.10-07.57.39:469][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.342366s)
+[2023.09.10-07.57.39:469][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pruebas1.Pruebas1 to /Game/UEDPIE_0_Pruebas1.Pruebas1 (0.342408s)
+[2023.09.10-07.57.39:469][506]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.10-07.57.39:469][506]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.10-07.57.39:470][506]LogAIModule: Creating AISystem for world Pruebas1
+[2023.09.10-07.57.39:471][506]LogPlayLevel: PIE: World Init took: (0.002191s)
+[2023.09.10-07.57.39:481][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.09.10-07.57.39:483][506]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.09.10-07.57.39:483][506]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.10-07.57.39:483][506]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.10-07.57.39:483][506]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.10-07.57.39:483][506]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.10-07.57.39:483][506]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.10-07.57.39:483][506]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.10-07.57.39:483][506]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.10-07.57.39:483][506]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.10-07.57.39:483][506]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.10-07.57.39:483][506]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.10-07.57.39:483][506]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.10-07.57.39:486][506]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.10-07.57.39:514][506]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2023.09.10-07.57.39:514][506]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.10-07.57.39:514][506]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.10-07.57.39:514][506]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.10-07.57.39:516][506]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.09.10-07.57.39:516][506]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.09.10-07.57.39:517][506]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.09.10-07.57.39:517][506]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.09.10-07.57.39:517][506]LogInit: FAudioDevice initialized with ID 9.
+[2023.09.10-07.57.39:517][506]LogAudio: Display: Audio Device (ID: 9) registered with world 'Pruebas1'.
+[2023.09.10-07.57.39:517][506]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.09.10-07.57.39:522][506]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.09.10-07.57.39:665][506]LogWorld: Bringing World /Game/UEDPIE_0_Pruebas1.Pruebas1 up for play (max tick rate 0) at 2023.09.10-04.57.39
+[2023.09.10-07.57.39:667][506]LogWorld: Bringing up level for play took: 0.144185
+[2023.09.10-07.57.39:669][506]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.09.10-07.57.39:674][506]PIE: Server logged in
+[2023.09.10-07.57.39:674][506]PIE: Play in editor total start time 0,549 seconds.
+[2023.09.10-07.57.39:803][506]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-07.57.39:803][506]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-07.57.39:804][506]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-07.57.39:805][506]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-07.57.39:805][506]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-07.58.29:164][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.10-07.58.29:164][888]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pruebas1
+[2023.09.10-07.58.29:166][888]LogWorld: UWorld::CleanupWorld for Pruebas1, bSessionEnded=true, bCleanupResources=true
+[2023.09.10-07.58.29:183][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.10-07.58.29:188][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.10-07.58.29:195][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.10-07.58.29:219][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.10-07.58.29:220][888]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.09.10-07.58.29:220][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.09.10-07.58.29:225][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.09.10-07.58.29:261][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.09.10-07.58.29:312][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-07.58.29:312][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-07.58.29:313][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-07.58.29:313][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-07.58.29:313][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-07.58.29:333][889]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.09.10-07.58.38:618][758]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.10-07.58.41:350][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.10-07.58.41:412][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pruebas1" FILE="../../../../../../Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Content/Pruebas1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.10-07.58.41:422][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.09.10-07.58.42:250][ 17]LogSavePackage: Moving output files for package: /Game/Pruebas1
+[2023.09.10-07.58.42:250][ 17]LogSavePackage: Moving '../../../../../../Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Saved/Pruebas15183B40243373A4EE0CF208C8E544F9B.tmp' to '../../../../../../Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Content/Pruebas1.umap'
+[2023.09.10-07.58.42:271][ 17]LogFileHelpers: Saving map 'Pruebas1' took 0.859
+[2023.09.10-07.58.42:276][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 925 ms (total: 4.19 sec)
+[2023.09.10-07.58.42:281][ 17]AssetCheck: New page: Asset Save: Pruebas1
+[2023.09.10-07.58.42:281][ 17]LogContentValidation: Display: Validating /Script/Engine.World /Game/Pruebas1.Pruebas1
+[2023.09.10-07.58.43:038][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.10-07.58.43:088][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewLevelSequence" FILE="../../../../../../Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Content/NewLevelSequence.uasset" SILENT=true
+[2023.09.10-07.58.43:091][ 83]LogSavePackage: Moving output files for package: /Game/NewLevelSequence
+[2023.09.10-07.58.43:091][ 83]LogSavePackage: Moving '../../../../../../Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Saved/NewLevelSequence3B5599324F90BF0F207C7A880191ABA5.tmp' to '../../../../../../Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Content/NewLevelSequence.uasset'
+[2023.09.10-07.58.43:099][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 4.25 sec)
+[2023.09.10-07.58.43:103][ 83]AssetCheck: New page: Asset Save: NewLevelSequence
+[2023.09.10-07.58.43:103][ 83]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/NewLevelSequence.NewLevelSequence
+[2023.09.10-07.58.45:036][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.09.10-07.58.46:270][247]LogSlate: Window 'Save Content' being destroyed
+[2023.09.10-07.58.46:279][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.10-07.58.46:332][247]LogSavePackage: Moving output files for package: /Game/LvlStuff/Anim/Beta_HighLimbsGeoSG3
+[2023.09.10-07.58.46:332][247]LogSavePackage: Moving '../../../../../../Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Saved/Beta_HighLimbsGeoSG38D2EB5EC42D04BDE0365AC88F12F2E66.tmp' to '../../../../../../Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Content/LvlStuff/Anim/Beta_HighLimbsGeoSG3.uasset'
+[2023.09.10-07.58.46:358][247]LogSavePackage: Moving output files for package: /Game/LvlStuff/Anim/Beta_Joints_MAT1
+[2023.09.10-07.58.46:358][247]LogSavePackage: Moving '../../../../../../Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Saved/Beta_Joints_MAT1B6D7FD034B0F1599D76ED486E104CBCF.tmp' to '../../../../../../Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Content/LvlStuff/Anim/Beta_Joints_MAT1.uasset'
+[2023.09.10-07.58.46:375][247]LogSavePackage: Moving output files for package: /Game/LvlStuff/Anim/Walk_W__Briefcase
+[2023.09.10-07.58.46:375][247]LogSavePackage: Moving '../../../../../../Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Saved/Walk_W__Briefcase7E5E5D0D4418936541F1B89E22D2A7CC.tmp' to '../../../../../../Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Content/LvlStuff/Anim/Walk_W__Briefcase.uasset'
+[2023.09.10-07.58.46:378][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LvlStuff/Anim/X_Bot" FILE="../../../../../../Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Content/LvlStuff/Anim/X_Bot.uasset" SILENT=true
+[2023.09.10-07.58.46:511][247]LogSavePackage: Moving output files for package: /Game/LvlStuff/Anim/X_Bot
+[2023.09.10-07.58.46:511][247]LogSavePackage: Moving '../../../../../../Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Saved/X_Bot22A858E94F51B23575461E95D941F284.tmp' to '../../../../../../Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Content/LvlStuff/Anim/X_Bot.uasset'
+[2023.09.10-07.58.46:517][247]LogSavePackage: Moving output files for package: /Game/LvlStuff/Anim/X_Bot_PhysicsAsset
+[2023.09.10-07.58.46:517][247]LogSavePackage: Moving '../../../../../../Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Saved/X_Bot_PhysicsAsset71A66B894F3381D1FB11DBB061A761A8.tmp' to '../../../../../../Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Content/LvlStuff/Anim/X_Bot_PhysicsAsset.uasset'
+[2023.09.10-07.58.46:521][247]LogSavePackage: Moving output files for package: /Game/LvlStuff/Anim/X_Bot_Skeleton
+[2023.09.10-07.58.46:521][247]LogSavePackage: Moving '../../../../../../Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Saved/X_Bot_Skeleton0120FDD44581A65328D62192BA574FF1.tmp' to '../../../../../../Users/CINNAMON/Documents/Unreal Projects/Pasarelala/Project/Content/LvlStuff/Anim/X_Bot_Skeleton.uasset'
+[2023.09.10-07.58.46:529][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 249 ms (total: 4.50 sec)
+[2023.09.10-07.58.46:534][247]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.10-07.58.46:534][247]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/LvlStuff/Anim/X_Bot_PhysicsAsset.X_Bot_PhysicsAsset
+[2023.09.10-07.58.46:534][247]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/LvlStuff/Anim/X_Bot_Skeleton.X_Bot_Skeleton
+[2023.09.10-07.58.46:534][247]LogContentValidation: Display: Validating /Script/Engine.Material /Game/LvlStuff/Anim/Beta_Joints_MAT1.Beta_Joints_MAT1
+[2023.09.10-07.58.46:534][247]LogContentValidation: Display: Validating /Script/Engine.Material /Game/LvlStuff/Anim/Beta_HighLimbsGeoSG3.Beta_HighLimbsGeoSG3
+[2023.09.10-07.58.46:534][247]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/LvlStuff/Anim/X_Bot.X_Bot
+[2023.09.10-07.58.46:534][247]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/LvlStuff/Anim/Walk_W__Briefcase.Walk_W__Briefcase
+[2023.09.10-07.59.22:169][573]LogSlate: Window 'Render Movie Settings' being destroyed
